@@ -1,1 +1,1 @@
-Basics of ML
+Machine Learning Concepts
